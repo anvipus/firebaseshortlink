@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "545457817724",
+    "firebase_url": "https://fir-dummy-ac3d8.firebaseio.com",
+    "project_id": "fir-dummy-ac3d8",
+    "storage_bucket": "fir-dummy-ac3d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545457817724:android:a7e20c6db5e0a727",
+        "android_client_info": {
+          "package_name": "com.example.asus.firebasedummy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545457817724-3t7d21gcvf8vgt01uu27hul5mc8c9ssc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvnNu5FTGVbDKnAlgFPPL5EjbpOs76gK8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
